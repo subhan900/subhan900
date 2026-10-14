@@ -30,9 +30,6 @@ I also maintain focused reference implementations for [Flutter service operation
 
 ## Selected product work
 
-### AI Reading & Listening Application
-
-Mobile product for importing PDF, EPUB, and TXT files, extracting clean chapter content, synchronized reading and audio playback, contextual vocabulary, reading analytics, and multilingual translation and listening—including English-to-Urdu workflows.
 
 ### Fintech Client Onboarding Platform
 
