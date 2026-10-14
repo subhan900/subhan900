@@ -4,7 +4,7 @@
 
 I work across Flutter, React, Firebase, Supabase, REST APIs, payments, and applied AI. I choose the stack that fits the product instead of forcing every project into one framework.
 
-[Upwork](https://www.upwork.com/freelancers/~019af99cb9be487cb6) · [Behance](https://www.behance.net/subhanahmed11)
+[Dribble](https://dribbble.com/Subhan9007941).[Behance](https://www.behance.net/subhanahmed11)
 
 ## What I build
 
